@@ -1,2 +1,2 @@
 # GAprework
-pre work for the General Assembly course
+pre work for the General Assembly course Data Science Fundamentals
